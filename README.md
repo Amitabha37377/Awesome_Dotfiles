@@ -47,8 +47,8 @@ sudo pacman -S awesome rofi picom dunst feh scrot light xinput acpi
 ```
 Next clone the repository and enter into the directory:-
 ```bash
-git clone ////
-cd awesome_dotfiles
+git clone https://github.com/Amitabha37377/Awesome_Dotfiles.git
+cd Awesome_dotfiles
 ```
 Copy the folders in their necessery directories:-
 ```bash
