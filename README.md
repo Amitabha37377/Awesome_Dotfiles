@@ -5,7 +5,7 @@ This is my collection of config files used for the <a href="https://www.reddit.c
 - <b>Distro</b>: Fedora 37
 - <b>terminal: </b> Kitty
 - <b>Shell: </b> ZSH
-- <b>Editor: </b> Neovim (<i>Astr nvim distro</i>)
+- <b>Editor: </b> Neovim (<i>Astro nvim distro</i>)
 - <b>File Manager: </b> Pcmanfm
 
 If you want to mimic the setup, read through the dotfiles, all details are there. Hope you will not have any issues. For any issues feel free to inform me. Also all suggestions are welcome.
